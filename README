@@ -1,0 +1,13 @@
+
+ 	*******************************
+ 	*     TorDNS LocalProxy       *
+  	*   How to torify Windows     *
+	*******************************
+ 
+This program allows to connect through Tor network 
+without a SOCKS proxy support.
+ 
+It replaces the DNS server and create a proxy for each request 
+to the DNS addresses tor.
+  
+ 
