@@ -9,5 +9,9 @@ without a SOCKS proxy support.
  
 It replaces the DNS server and create a proxy for each request 
 to the DNS addresses tor.
-  
- 
+
+        1) Configure TorDNS
+        2) Run tor
+	3) Run java -jar tordns.jar
+	4) Set dns to: 127.0.0.1 127.0.0.2
+	
